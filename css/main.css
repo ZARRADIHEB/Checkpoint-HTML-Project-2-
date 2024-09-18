@@ -495,7 +495,7 @@ ul {
   background-color: black;
   border-bottom: 3px solid var(--main-color);
   z-index: 100;
-  display: flex;
+  display: none;
   flex: 1;
   gap: 45px;
   border-radius: 10px;
